@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655387565378",
+    "project_id": "fcm-02-9e417",
+    "storage_bucket": "fcm-02-9e417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655387565378:android:9be450e22cd9dcedcdfcdb",
+        "android_client_info": {
+          "package_name": "pe.edu.unmsm.ebautista.flutter_fcm_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655387565378-9necndnjv9p651l38glcop8qbt323e6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWneGIAmajvWhMMe8JajrAVxrO1CqE3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655387565378-9necndnjv9p651l38glcop8qbt323e6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
